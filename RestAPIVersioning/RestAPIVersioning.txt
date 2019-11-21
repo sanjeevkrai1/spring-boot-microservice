@@ -1,0 +1,11 @@
+###############REST API Versioning##################
+
+- URI versioning
+	different verison of URI 
+- Header versioning 
+	different header parameter to differtiate the rest api
+- Parameters versioning
+	different parameters to differetiate the rest api
+- Mime type( accept - header ) produces versioning 
+
+	
